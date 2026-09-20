@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it and related papers.
+title: "PLER: Peak Length Error Ratio — full-reference 3D mesh quality metric"
+authors:
+  - family-names: Voronkov
+    given-names: Gleb
+repository-code: "https://github.com/GlebVoronkov03/pler-3d-quality"
+license: "Other"
+contact:
+  - email: mybook3@mail.ru
+preferred-citation:
+  type: article
+  title: "Research of methods for modeling user assessments of 3D content for extended reality systems"
+  authors:
+    - family-names: Voronkov
+      given-names: V. G.
+  year: 2024
